@@ -1,0 +1,8 @@
+[
+	{
+		"test": "4\nrgbBRG\nRgbrBG\nbBrRgG\nrgRGBb\n"
+	},
+	{
+		"test": "1\nrgbGBR\n"
+	}
+]

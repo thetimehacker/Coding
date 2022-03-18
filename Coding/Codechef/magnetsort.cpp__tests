@@ -1,0 +1,5 @@
+[
+	{
+		"test": "6\n5\n1 3 2 3 7\nNNSNS\n2\n2 1\nSS\n3\n1 8 12\nSNS\n3\n3 2 1\nNSN\n5\n1 2 3 5 4\nNSNSN\n5\n1 1 2 2 1\nSNSNN\n\n"
+	}
+]

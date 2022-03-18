@@ -1,0 +1,14 @@
+[
+	{
+		"test": "4 5\nRamanujan India\nTorricelli Italy\nGauss Germany\nLagrange Italy\nRamanujan\nTorricelli\nTorricelli\nRamanujan\nLagrange\n"
+	},
+	{
+		"test": "2 2\nNewton England\nEuclid Greece\nNewton\nEuclid\n"
+	},
+	{
+		"test": "1 3\nLeibniz Germany\nLeibniz\nLeibniz\nLeibniz\n"
+	},
+	{
+		"test": "1 1\nsk india\nsk\n"
+	}
+]

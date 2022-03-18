@@ -1,0 +1,14 @@
+[
+	{
+		"test": "abcde\neab\n"
+	},
+	{
+		"test": "abc\nabc\n"
+	},
+	{
+		"test": "abcdef\ncde\n"
+	},
+	{
+		"test": "abcd\nca\n"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"test": "1\n5\nWarsaw Kiev 120$\nMadrid Paris 100$\nMunich Warsaw 150$\nParis Munich 200$\n"
+	},
+	{
+		"test": "1\n6\na b 10\nc d 20\nd e 30\nb c 30\ne f 30\n"
+	}
+]
